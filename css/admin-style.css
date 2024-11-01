@@ -1,0 +1,24 @@
+.gmse_inner_weather_data{
+	display: none;
+}
+.gmse_inner_weather_data_flex{
+	display: flex;
+	margin-top: 10px;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.gmse_innsermake{
+	/*max-width: 150px;*/
+}
+.gmse_innsermake img{
+	max-width: 65px;
+}
+.gmse_innsermake {
+    /* max-width: 150px; */
+    display: flex;
+    /* align-content: center; */
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 10px;
+}
